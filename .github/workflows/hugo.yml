@@ -34,7 +34,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
-        publish_dir: ./p/public
+        publish_dir: ./p
         publish_branch: master  
         user_name: 'github-actions[bot]'
         commit_message: 'Deploy commit: ${{ github.event.head_commit.message }}'
