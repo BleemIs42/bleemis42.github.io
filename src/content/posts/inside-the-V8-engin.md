@@ -1,16 +1,16 @@
 ---
 title: "JavaScript 工作原理: V8引擎内部+关于如何编写及优化代码的5条建议"
 date: 2020-03-28T20:41:24+08:00
+cover: "https://cdn-images-1.medium.com/max/1600/1*AKKvE3QmN_ZQmEzSj16oXg.png"
 categories: ["JavaScript"]
 tags: ["Nodejs", "V8", "JavaScript"]
 ---
 
-> 原文: [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)    
-> 作者: [Alexander Zlatkov](https://blog.sessionstack.com/@zlatkov)
-
 ## 概述
 
 **JavaScript 引擎**是执行 JavaScript 代码的程序或解释器. 它可以作为标准的解释器或即时编译器(JIT), 以某种形式将 JavaScript 编译为字节码.
+
+<!--more-->
 
 这是一些实现 JavaScript 引擎比较流行的项目:
 
@@ -167,3 +167,6 @@ V8 利用了另一种优化动态类型语言的技术, 称为内联缓存. 内�
 - https://www.youtube.com/watch?v=UJPdhx5zTaw
 - https://www.youtube.com/watch?v=hWhMKalEicY
 
+
+> 原文: [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)    
+> 作者: [Alexander Zlatkov](https://blog.sessionstack.com/@zlatkov)

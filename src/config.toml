@@ -1,7 +1,8 @@
+publishdir = "../p"
 baseURL = "https://barryyan.github.io"
 languageCode = "en-US"
-defaultContentLanguage = "en"
-title = "Barry's Blog"
+defaultContentLanguage = "zh"
+title = "天心阁"
 theme = "dream"
 
 enableRobotsTXT = true
@@ -20,10 +21,10 @@ hasCJKLanguage = true
   # backgroundImage = ""
   linkColor = "seagreen"
 
-  author = "Barry"
-  description = "Barry's Blog"
-  avatar = ""
-  motto = "What kind of person you are depends on the decisions you make."
+  author = "天心"
+  description = "天地人心"
+  avatar = "/me/avatar.jpg"
+  motto = "你是什么样的人, 取决于你所做的决定!"
   
   email = "barry.yanshg@gmail.com"
   github = "barryyan"
