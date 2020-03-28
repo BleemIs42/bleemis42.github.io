@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+theme = "dream"
+languageCode = "en-us"
+title = "My Blog"
