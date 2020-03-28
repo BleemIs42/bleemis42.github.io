@@ -6,10 +6,20 @@
     <description>Recent content in JavaScript on 天心阁</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 28 Mar 2020 23:05:52 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 00:59:54 +0800</lastBuildDate>
     
 	<atom:link href="https://barryyan.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>让我们揭开 JavaScript 关键字 new 的神秘面纱</title>
+      <link>https://barryyan.github.io/posts/javascript-the-new-keyword/</link>
+      <pubDate>Sun, 29 Mar 2020 00:59:54 +0800</pubDate>
+      
+      <guid>https://barryyan.github.io/posts/javascript-the-new-keyword/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/2000/1*yF1csYj3s_p4lBZW8L0iCA.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;周末, 我完成了 Will Sentance 的&lt;a href=&#34;https://frontendmasters.com/courses/javascript-hard-parts/&#34;&gt;《JavaScript: The Hard Parts》&lt;/a&gt;课程. 听起来也许这并不是度过周末最光荣的方式, 但是实际上我觉得完成这门课很轻松, 也很有趣. 它涉及到了函数式编程, 高阶函数, 闭包以及异步 JavaScript的内容.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>JavaScript 工作原理: 引擎, 运行时和调用栈概述</title>
