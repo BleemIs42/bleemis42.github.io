@@ -18,7 +18,7 @@ hasCJKLanguage = true
 
 [params]
   # background = "black"
-  # backgroundImage = ""
+  backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
   author = "天心"
