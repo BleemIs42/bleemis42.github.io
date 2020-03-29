@@ -30,7 +30,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Build
-      run: hugo -s src
+      run: hugo -s src --minify
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
