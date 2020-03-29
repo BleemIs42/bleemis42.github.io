@@ -18,7 +18,7 @@ hasCJKLanguage = true
 [params]
   # background = "black"
   backgroundImage = "/me/bg.jpeg"
-  linkColor = "seagreen"
+  linkColor = "deepskyblue"
 
   author = "苏夏天心"
   description = "天地人心"
@@ -35,6 +35,6 @@ hasCJKLanguage = true
   favicon = "/favicon.ico"
 
   # dark mode
-  darkLinkColor = "darkseagreen"
+  darkLinkColor = "lightskyblue"
   darkNav = true
   dark404Button = true
