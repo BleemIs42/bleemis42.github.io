@@ -6,9 +6,10 @@ categories: ["Music"]
 tags: ["music", "歌词"]
 ---
 
-是热情惹的错      
 
 <audio controls autoplay loop src="/media/is-passion's-fault.mp3"></audio>
+
+是热情惹的错      
 
 作词: 天心      
 作曲: 虎头      
