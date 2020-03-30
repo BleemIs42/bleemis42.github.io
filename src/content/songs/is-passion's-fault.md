@@ -9,7 +9,7 @@ tags: ["music", "歌词"]
 是热情惹的错      
 
 [播放](/media/是热情惹的错.mp3)      
-<audio autoplay src="/media/是热情惹的错.mp3"></audio>
+<audio autoplay loop src="/media/是热情惹的错.mp3"></audio>
 
 作词: 天心      
 作曲: 虎头      
