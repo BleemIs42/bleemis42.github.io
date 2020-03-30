@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Map"
 date: 2020-03-29T14:17:53+08:00
+lastmod: 2020-03-29T00:59:54+08:00
 cover: "/knowledge-map/big-bang.jpg"
 categories: ["Knowledge"]
 tags: ["map", "education"]

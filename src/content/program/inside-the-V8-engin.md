@@ -1,6 +1,7 @@
 ---
 title: "JavaScript 工作原理: V8引擎内部+关于如何编写及优化代码的5条建议"
 date: 2020-03-28T20:41:24+08:00
+lastmod: 2020-03-29T00:59:54+08:00
 cover: "https://cdn-images-1.medium.com/max/1600/1*AKKvE3QmN_ZQmEzSj16oXg.png"
 categories: ["JavaScript"]
 tags: ["Nodejs", "V8", "JavaScript"]

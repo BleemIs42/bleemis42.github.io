@@ -1,6 +1,7 @@
 ---
 title: "是热情惹的错"
 date: 2020-03-29T13:23:30+08:00
+lastmod: 2020-03-29T00:59:54+08:00
 cover: "/img/passion.jpg"
 categories: ["Music"]
 tags: ["music", "歌词"]
