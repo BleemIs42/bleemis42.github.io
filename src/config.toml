@@ -27,6 +27,9 @@ hasCJKLanguage = true
   
   email = "barry.yanshg@gmail.com"
   github = "barryyan"
+  # enable github issue comments
+  repository = "BarryYan/barryyan.github.io"
+  
   # linkedin = ""
   # codepen = ""
 
