@@ -24,6 +24,8 @@ hasCJKLanguage = true
   description = "天地人心"
   avatar = "/me/avatar.jpg"
   motto = "你是什么样的人, 取决于你所做的决定!"
+
+  rss = true
   
   email = "barry.yanshg@gmail.com"
   github = "barryyan"
@@ -33,7 +35,9 @@ hasCJKLanguage = true
   # linkedin = ""
   # codepen = ""
 
-  siteStartYear = 2020
+  # showSummaryCoverInPost = true
+
+  siteStartYear = 2019
 
   favicon = "/favicon.ico"
 
