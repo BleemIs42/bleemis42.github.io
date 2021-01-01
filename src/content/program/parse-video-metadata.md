@@ -1,10 +1,12 @@
 ---
 title: "解析视频的元数据"
 date: 2021-01-01T23:02:54+08:00
-cover: "https://cdn-images-1.medium.com/max/2000/1*yF1csYj3s_p4lBZW8L0iCA.jpeg"
+cover: "/img/hanzhong.jpg"
 categories: ["JavaScript"]
 tags: ["JavaScript", "image", "video"]
 ---
+
+<video controls autoplay src="/media/hanzhong.mp4"></video>
 
 ### 视频的元数据
 > [ISO/IEC 14496-12:2005(E) - MP4](https://web.archive.org/web/20180219054429/http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)     
