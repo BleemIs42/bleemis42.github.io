@@ -8,8 +8,6 @@ tags: ["JavaScript"]
 ---
 
 
-![](https://cdn-images-1.medium.com/max/2000/1*yF1csYj3s_p4lBZW8L0iCA.jpeg)
-      
 周末, 我完成了 Will Sentance 的[《JavaScript: The Hard Parts》](https://frontendmasters.com/courses/javascript-hard-parts/)课程. 听起来也许这并不是度过周末最光荣的方式, 但是实际上我觉得完成这门课很轻松, 也很有趣. 它涉及到了函数式编程, 高阶函数, 闭包以及异步 JavaScript的内容.    
 
 <!--more-->
